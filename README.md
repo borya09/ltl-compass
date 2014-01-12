@@ -1,4 +1,7 @@
-ltl-compass
-===========
+ltl-compass (Little compass)
+=======
+ltl-compass ~~is~~ will be an npm package to compile compass
 
-Little compass compiler
+TODO
+=======
+Everything
