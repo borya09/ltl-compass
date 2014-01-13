@@ -3,6 +3,7 @@
     "version": "0.1.0",
     "private": true,
     "dependencies": {
-        "fs.extra": "1.2.1"
-    }
+        "fs-extra": "0.8.1"
+    },
+		"main": "./lib/ltl-compass"
 }
