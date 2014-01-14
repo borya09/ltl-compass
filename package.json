@@ -1,9 +1,12 @@
 {
-    "name": "ltl-compass",
-    "version": "0.1.0",
-    "private": true,
-    "dependencies": {
-        "fs-extra": "0.8.1"
-    },
-		"main": "./lib/ltl-compass"
+  "name": "ltl-compass",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "fs-extra": "0.8.1"
+  },
+  "main": "./lib/ltl-compass",
+  "devDependencies": {
+    "should": "~2.1.1"
+  }
 }
